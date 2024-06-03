@@ -1,0 +1,1442 @@
+[
+  {
+    "MaSoTaiLieuDinhKem": 1,
+    "MaTaiLieuDinhKem": "1742376",
+    "TenTaiLieu": "1717404412172.jpg",
+    "checksum": "nodicom.2024.06.03.ad0478942cf0cc39cc8214407895f0a0",
+    "LoaiNoiDung": "image/jpeg",
+    "DungLuong": "25 KB",
+    "Loai": "BINARY",
+    "TenBacSi": "BS CKI Phạm Ngọc Nhân",
+    "DataCapNhat": {
+      "NgayCapNhat": "2024-06-03T15:50:00",
+      "NgayTao": "2024-06-03T15:50:00",
+      "NguoiNhat": "nhan.phamn",
+      "NguoiCapNhat": "nhan.phamn"
+    },
+    "NgayTao": "0001-01-01T00:00:00",
+    "image": null
+  },
+  {
+    "MaSoTaiLieuDinhKem": 2,
+    "MaTaiLieuDinhKem": "1742375",
+    "TenTaiLieu": "1717404251469.jpg",
+    "checksum": "nodicom.2024.06.03.6174697821b9cdc7c6ddbe2662a14e0b",
+    "LoaiNoiDung": "image/jpeg",
+    "DungLuong": "33 KB",
+    "Loai": "BINARY",
+    "TenBacSi": "BS CKI Phạm Ngọc Nhân",
+    "DataCapNhat": {
+      "NgayCapNhat": "2024-06-03T15:50:00",
+      "NgayTao": "2024-06-03T15:50:00",
+      "NguoiNhat": "nhan.phamn",
+      "NguoiCapNhat": "nhan.phamn"
+    },
+    "NgayTao": "0001-01-01T00:00:00",
+    "image": null
+  },
+  {
+    "MaSoTaiLieuDinhKem": 3,
+    "MaTaiLieuDinhKem": "1742374",
+    "TenTaiLieu": "1717404232313.jpg",
+    "checksum": "nodicom.2024.06.03.c768fd87906ab229fd83f62c02aaaa86",
+    "LoaiNoiDung": "image/jpeg",
+    "DungLuong": "36 KB",
+    "Loai": "BINARY",
+    "TenBacSi": "BS CKI Phạm Ngọc Nhân",
+    "DataCapNhat": {
+      "NgayCapNhat": "2024-06-03T15:50:00",
+      "NgayTao": "2024-06-03T15:50:00",
+      "NguoiNhat": "nhan.phamn",
+      "NguoiCapNhat": "nhan.phamn"
+    },
+    "NgayTao": "0001-01-01T00:00:00",
+    "image": null
+  },
+  {
+    "MaSoTaiLieuDinhKem": 4,
+    "MaTaiLieuDinhKem": "1742323",
+    "TenTaiLieu": "1717403905252.jpg",
+    "checksum": "nodicom.2024.06.03.1ffac28313671d65960e638807c00e48",
+    "LoaiNoiDung": "image/jpeg",
+    "DungLuong": "31 KB",
+    "Loai": "BINARY",
+    "TenBacSi": "BS Bùi Thị Khánh Phượng",
+    "DataCapNhat": {
+      "NgayCapNhat": "2024-06-03T15:38:00",
+      "NgayTao": "2024-06-03T15:38:00",
+      "NguoiNhat": "phuong.buitk",
+      "NguoiCapNhat": "phuong.buitk"
+    },
+    "NgayTao": "0001-01-01T00:00:00",
+    "image": null
+  },
+  {
+    "MaSoTaiLieuDinhKem": 5,
+    "MaTaiLieuDinhKem": "1742315",
+    "TenTaiLieu": "1717403835859.jpg",
+    "checksum": "nodicom.2024.06.03.9f12c3fef1a2d3a7be466ea898e71818",
+    "LoaiNoiDung": "image/jpeg",
+    "DungLuong": "33 KB",
+    "Loai": "BINARY",
+    "TenBacSi": "BS Bùi Thị Khánh Phượng",
+    "DataCapNhat": {
+      "NgayCapNhat": "2024-06-03T15:37:00",
+      "NgayTao": "2024-06-03T15:37:00",
+      "NguoiNhat": "phuong.buitk",
+      "NguoiCapNhat": "phuong.buitk"
+    },
+    "NgayTao": "0001-01-01T00:00:00",
+    "image": null
+  },
+  {
+    "MaSoTaiLieuDinhKem": 6,
+    "MaTaiLieuDinhKem": "1742313",
+    "TenTaiLieu": "1717403775111.jpg",
+    "checksum": "nodicom.2024.06.03.307a6b16897349a3545d85833f800a5a",
+    "LoaiNoiDung": "image/jpeg",
+    "DungLuong": "30 KB",
+    "Loai": "BINARY",
+    "TenBacSi": "BS Bùi Thị Khánh Phượng",
+    "DataCapNhat": {
+      "NgayCapNhat": "2024-06-03T15:36:00",
+      "NgayTao": "2024-06-03T15:36:00",
+      "NguoiNhat": "phuong.buitk",
+      "NguoiCapNhat": "phuong.buitk"
+    },
+    "NgayTao": "0001-01-01T00:00:00",
+    "image": null
+  },
+  {
+    "MaSoTaiLieuDinhKem": 7,
+    "MaTaiLieuDinhKem": "1742306",
+    "TenTaiLieu": "1717403649432.jpg",
+    "checksum": "nodicom.2024.06.03.c1d5cab5bfe81c3a7d4e4717ebb17736",
+    "LoaiNoiDung": "image/jpeg",
+    "DungLuong": "29 KB",
+    "Loai": "BINARY",
+    "TenBacSi": "BS Bùi Thị Khánh Phượng",
+    "DataCapNhat": {
+      "NgayCapNhat": "2024-06-03T15:35:00",
+      "NgayTao": "2024-06-03T15:35:00",
+      "NguoiNhat": "phuong.buitk",
+      "NguoiCapNhat": "phuong.buitk"
+    },
+    "NgayTao": "0001-01-01T00:00:00",
+    "image": null
+  },
+  {
+    "MaSoTaiLieuDinhKem": 8,
+    "MaTaiLieuDinhKem": "1742286",
+    "TenTaiLieu": "0232_20240603153115_2m0.bmp",
+    "checksum": "md.2024.06.03.d34dac5948e65375bd5d53aca7ca39b7",
+    "LoaiNoiDung": "image/bmp",
+    "DungLuong": "5 KB",
+    "Loai": "BINARY",
+    "TenBacSi": "CN Nguyễn Đoàn Phương Loan",
+    "DataCapNhat": {
+      "NgayCapNhat": "2024-06-03T15:31:00",
+      "NgayTao": "2024-06-03T15:31:00",
+      "NguoiNhat": "loan.nguyendp",
+      "NguoiCapNhat": "loan.nguyendp"
+    },
+    "NgayTao": "0001-01-01T00:00:00",
+    "image": null
+  },
+  {
+    "MaSoTaiLieuDinhKem": 9,
+    "MaTaiLieuDinhKem": "1742285",
+    "TenTaiLieu": "0232_20240603153115_2lz.bmp",
+    "checksum": "md.2024.06.03.b938083a025a1309c9a02a45070163bb",
+    "LoaiNoiDung": "image/bmp",
+    "DungLuong": "5 KB",
+    "Loai": "BINARY",
+    "TenBacSi": "CN Nguyễn Đoàn Phương Loan",
+    "DataCapNhat": {
+      "NgayCapNhat": "2024-06-03T15:31:00",
+      "NgayTao": "2024-06-03T15:31:00",
+      "NguoiNhat": "loan.nguyendp",
+      "NguoiCapNhat": "loan.nguyendp"
+    },
+    "NgayTao": "0001-01-01T00:00:00",
+    "image": null
+  },
+  {
+    "MaSoTaiLieuDinhKem": 10,
+    "MaTaiLieuDinhKem": "1742284",
+    "TenTaiLieu": "0232_20240603153115_2ly.bmp",
+    "checksum": "md.2024.06.03.70ba0e2d9095c41c877c0a3221bc834c",
+    "LoaiNoiDung": "image/bmp",
+    "DungLuong": "5 KB",
+    "Loai": "BINARY",
+    "TenBacSi": "CN Nguyễn Đoàn Phương Loan",
+    "DataCapNhat": {
+      "NgayCapNhat": "2024-06-03T15:31:00",
+      "NgayTao": "2024-06-03T15:31:00",
+      "NguoiNhat": "loan.nguyendp",
+      "NguoiCapNhat": "loan.nguyendp"
+    },
+    "NgayTao": "0001-01-01T00:00:00",
+    "image": null
+  },
+  {
+    "MaSoTaiLieuDinhKem": 11,
+    "MaTaiLieuDinhKem": "1742283",
+    "TenTaiLieu": "0232_20240603153115_2lx.bmp",
+    "checksum": "md.2024.06.03.b2d5548286bca090adc99f4592c68a99",
+    "LoaiNoiDung": "image/bmp",
+    "DungLuong": "5 KB",
+    "Loai": "BINARY",
+    "TenBacSi": "CN Nguyễn Đoàn Phương Loan",
+    "DataCapNhat": {
+      "NgayCapNhat": "2024-06-03T15:31:00",
+      "NgayTao": "2024-06-03T15:31:00",
+      "NguoiNhat": "loan.nguyendp",
+      "NguoiCapNhat": "loan.nguyendp"
+    },
+    "NgayTao": "0001-01-01T00:00:00",
+    "image": null
+  },
+  {
+    "MaSoTaiLieuDinhKem": 12,
+    "MaTaiLieuDinhKem": "1742282",
+    "TenTaiLieu": "0232_20240603153115_2lw.bmp",
+    "checksum": "md.2024.06.03.b6b77d94e152c4394ca124cce7790d4d",
+    "LoaiNoiDung": "image/bmp",
+    "DungLuong": "5 KB",
+    "Loai": "BINARY",
+    "TenBacSi": "CN Nguyễn Đoàn Phương Loan",
+    "DataCapNhat": {
+      "NgayCapNhat": "2024-06-03T15:31:00",
+      "NgayTao": "2024-06-03T15:31:00",
+      "NguoiNhat": "loan.nguyendp",
+      "NguoiCapNhat": "loan.nguyendp"
+    },
+    "NgayTao": "0001-01-01T00:00:00",
+    "image": null
+  },
+  {
+    "MaSoTaiLieuDinhKem": 13,
+    "MaTaiLieuDinhKem": "1742281",
+    "TenTaiLieu": "0232_20240603153115_2lv.bmp",
+    "checksum": "md.2024.06.03.802a43413e3e321e587b61da3fc41fe7",
+    "LoaiNoiDung": "image/bmp",
+    "DungLuong": "5 KB",
+    "Loai": "BINARY",
+    "TenBacSi": "CN Nguyễn Đoàn Phương Loan",
+    "DataCapNhat": {
+      "NgayCapNhat": "2024-06-03T15:31:00",
+      "NgayTao": "2024-06-03T15:31:00",
+      "NguoiNhat": "loan.nguyendp",
+      "NguoiCapNhat": "loan.nguyendp"
+    },
+    "NgayTao": "0001-01-01T00:00:00",
+    "image": null
+  },
+  {
+    "MaSoTaiLieuDinhKem": 14,
+    "MaTaiLieuDinhKem": "1742280",
+    "TenTaiLieu": "0232_20240603153115_2lu.bmp",
+    "checksum": "md.2024.06.03.be468217bcb2f842007fa7420dd0a79e",
+    "LoaiNoiDung": "image/bmp",
+    "DungLuong": "5 KB",
+    "Loai": "BINARY",
+    "TenBacSi": "CN Nguyễn Đoàn Phương Loan",
+    "DataCapNhat": {
+      "NgayCapNhat": "2024-06-03T15:31:00",
+      "NgayTao": "2024-06-03T15:31:00",
+      "NguoiNhat": "loan.nguyendp",
+      "NguoiCapNhat": "loan.nguyendp"
+    },
+    "NgayTao": "0001-01-01T00:00:00",
+    "image": null
+  },
+  {
+    "MaSoTaiLieuDinhKem": 15,
+    "MaTaiLieuDinhKem": "1742279",
+    "TenTaiLieu": "0232_20240603153115_2lt.bmp",
+    "checksum": "md.2024.06.03.f8aee04baa52a7af3ace46c957b30b68",
+    "LoaiNoiDung": "image/bmp",
+    "DungLuong": "5 KB",
+    "Loai": "BINARY",
+    "TenBacSi": "CN Nguyễn Đoàn Phương Loan",
+    "DataCapNhat": {
+      "NgayCapNhat": "2024-06-03T15:31:00",
+      "NgayTao": "2024-06-03T15:31:00",
+      "NguoiNhat": "loan.nguyendp",
+      "NguoiCapNhat": "loan.nguyendp"
+    },
+    "NgayTao": "0001-01-01T00:00:00",
+    "image": null
+  },
+  {
+    "MaSoTaiLieuDinhKem": 16,
+    "MaTaiLieuDinhKem": "1742278",
+    "TenTaiLieu": "0231_20240603153115_2ls.bmp",
+    "checksum": "md.2024.06.03.f3fe28d2b6a14c409e359a00adf23c24",
+    "LoaiNoiDung": "image/bmp",
+    "DungLuong": "5 KB",
+    "Loai": "BINARY",
+    "TenBacSi": "CN Nguyễn Đoàn Phương Loan",
+    "DataCapNhat": {
+      "NgayCapNhat": "2024-06-03T15:31:00",
+      "NgayTao": "2024-06-03T15:31:00",
+      "NguoiNhat": "loan.nguyendp",
+      "NguoiCapNhat": "loan.nguyendp"
+    },
+    "NgayTao": "0001-01-01T00:00:00",
+    "image": null
+  },
+  {
+    "MaSoTaiLieuDinhKem": 17,
+    "MaTaiLieuDinhKem": "1742277",
+    "TenTaiLieu": "0231_20240603153115_2lr.bmp",
+    "checksum": "md.2024.06.03.6987fc22223a7fa4fbcfe9685196156b",
+    "LoaiNoiDung": "image/bmp",
+    "DungLuong": "5 KB",
+    "Loai": "BINARY",
+    "TenBacSi": "CN Nguyễn Đoàn Phương Loan",
+    "DataCapNhat": {
+      "NgayCapNhat": "2024-06-03T15:31:00",
+      "NgayTao": "2024-06-03T15:31:00",
+      "NguoiNhat": "loan.nguyendp",
+      "NguoiCapNhat": "loan.nguyendp"
+    },
+    "NgayTao": "0001-01-01T00:00:00",
+    "image": null
+  },
+  {
+    "MaSoTaiLieuDinhKem": 18,
+    "MaTaiLieuDinhKem": "1742276",
+    "TenTaiLieu": "0231_20240603153115_2lq.bmp",
+    "checksum": "md.2024.06.03.0cd75307320d279e0b689bf1f93e78a6",
+    "LoaiNoiDung": "image/bmp",
+    "DungLuong": "5 KB",
+    "Loai": "BINARY",
+    "TenBacSi": "CN Nguyễn Đoàn Phương Loan",
+    "DataCapNhat": {
+      "NgayCapNhat": "2024-06-03T15:31:00",
+      "NgayTao": "2024-06-03T15:31:00",
+      "NguoiNhat": "loan.nguyendp",
+      "NguoiCapNhat": "loan.nguyendp"
+    },
+    "NgayTao": "0001-01-01T00:00:00",
+    "image": null
+  },
+  {
+    "MaSoTaiLieuDinhKem": 19,
+    "MaTaiLieuDinhKem": "1742275",
+    "TenTaiLieu": "0231_20240603153115_2lp.bmp",
+    "checksum": "md.2024.06.03.6d7d776bab8978885118793c39865f8b",
+    "LoaiNoiDung": "image/bmp",
+    "DungLuong": "5 KB",
+    "Loai": "BINARY",
+    "TenBacSi": "CN Nguyễn Đoàn Phương Loan",
+    "DataCapNhat": {
+      "NgayCapNhat": "2024-06-03T15:31:00",
+      "NgayTao": "2024-06-03T15:31:00",
+      "NguoiNhat": "loan.nguyendp",
+      "NguoiCapNhat": "loan.nguyendp"
+    },
+    "NgayTao": "0001-01-01T00:00:00",
+    "image": null
+  },
+  {
+    "MaSoTaiLieuDinhKem": 20,
+    "MaTaiLieuDinhKem": "1742274",
+    "TenTaiLieu": "0231_20240603153115_2lo.bmp",
+    "checksum": "md.2024.06.03.1540dd311dc0b51bccaefa2b332088fe",
+    "LoaiNoiDung": "image/bmp",
+    "DungLuong": "5 KB",
+    "Loai": "BINARY",
+    "TenBacSi": "CN Nguyễn Đoàn Phương Loan",
+    "DataCapNhat": {
+      "NgayCapNhat": "2024-06-03T15:31:00",
+      "NgayTao": "2024-06-03T15:31:00",
+      "NguoiNhat": "loan.nguyendp",
+      "NguoiCapNhat": "loan.nguyendp"
+    },
+    "NgayTao": "0001-01-01T00:00:00",
+    "image": null
+  },
+  {
+    "MaSoTaiLieuDinhKem": 21,
+    "MaTaiLieuDinhKem": "1742273",
+    "TenTaiLieu": "0231_20240603153115_2ln.bmp",
+    "checksum": "md.2024.06.03.e5cdc2628457e8763cf2ef1b82bb0a09",
+    "LoaiNoiDung": "image/bmp",
+    "DungLuong": "5 KB",
+    "Loai": "BINARY",
+    "TenBacSi": "CN Nguyễn Đoàn Phương Loan",
+    "DataCapNhat": {
+      "NgayCapNhat": "2024-06-03T15:31:00",
+      "NgayTao": "2024-06-03T15:31:00",
+      "NguoiNhat": "loan.nguyendp",
+      "NguoiCapNhat": "loan.nguyendp"
+    },
+    "NgayTao": "0001-01-01T00:00:00",
+    "image": null
+  },
+  {
+    "MaSoTaiLieuDinhKem": 22,
+    "MaTaiLieuDinhKem": "1742272",
+    "TenTaiLieu": "0231_20240603153115_2lm.bmp",
+    "checksum": "md.2024.06.03.ac68d7b3f9ce3bb7611c7e080687d333",
+    "LoaiNoiDung": "image/bmp",
+    "DungLuong": "5 KB",
+    "Loai": "BINARY",
+    "TenBacSi": "CN Nguyễn Đoàn Phương Loan",
+    "DataCapNhat": {
+      "NgayCapNhat": "2024-06-03T15:31:00",
+      "NgayTao": "2024-06-03T15:31:00",
+      "NguoiNhat": "loan.nguyendp",
+      "NguoiCapNhat": "loan.nguyendp"
+    },
+    "NgayTao": "0001-01-01T00:00:00",
+    "image": null
+  },
+  {
+    "MaSoTaiLieuDinhKem": 23,
+    "MaTaiLieuDinhKem": "1742271",
+    "TenTaiLieu": "0231_20240603153115_2ll.bmp",
+    "checksum": "md.2024.06.03.4918201600538edb62f24b7990228615",
+    "LoaiNoiDung": "image/bmp",
+    "DungLuong": "5 KB",
+    "Loai": "BINARY",
+    "TenBacSi": "CN Nguyễn Đoàn Phương Loan",
+    "DataCapNhat": {
+      "NgayCapNhat": "2024-06-03T15:31:00",
+      "NgayTao": "2024-06-03T15:31:00",
+      "NguoiNhat": "loan.nguyendp",
+      "NguoiCapNhat": "loan.nguyendp"
+    },
+    "NgayTao": "0001-01-01T00:00:00",
+    "image": null
+  },
+  {
+    "MaSoTaiLieuDinhKem": 24,
+    "MaTaiLieuDinhKem": "1742265",
+    "TenTaiLieu": "1717403351957.jpg",
+    "checksum": "nodicom.2024.06.03.529d66803c1093d5399bc94d72ca55e6",
+    "LoaiNoiDung": "image/jpeg",
+    "DungLuong": "27 KB",
+    "Loai": "BINARY",
+    "TenBacSi": "BS Bùi Thị Khánh Phượng",
+    "DataCapNhat": {
+      "NgayCapNhat": "2024-06-03T15:29:00",
+      "NgayTao": "2024-06-03T15:29:00",
+      "NguoiNhat": "phuong.buitk",
+      "NguoiCapNhat": "phuong.buitk"
+    },
+    "NgayTao": "0001-01-01T00:00:00",
+    "image": null
+  },
+  {
+    "MaSoTaiLieuDinhKem": 25,
+    "MaTaiLieuDinhKem": "1742218",
+    "TenTaiLieu": "image.png",
+    "checksum": "nodicom.2024.06.03.03a46a65582436f5d9df7b75895af45e",
+    "LoaiNoiDung": "image/png",
+    "DungLuong": "18 KB",
+    "Loai": "BINARY",
+    "TenBacSi": "BS Bùi Thị Khánh Phượng",
+    "DataCapNhat": {
+      "NgayCapNhat": "2024-06-03T15:21:00",
+      "NgayTao": "2024-06-03T15:21:00",
+      "NguoiNhat": "phuong.buitk",
+      "NguoiCapNhat": "phuong.buitk"
+    },
+    "NgayTao": "0001-01-01T00:00:00",
+    "image": null
+  },
+  {
+    "MaSoTaiLieuDinhKem": 26,
+    "MaTaiLieuDinhKem": "1742178",
+    "TenTaiLieu": "5269_20240603151126_2lk.bmp",
+    "checksum": "md.2024.06.03.0d42cefe6ebfbf0afe391f750397aceb",
+    "LoaiNoiDung": "image/bmp",
+    "DungLuong": "3 KB",
+    "Loai": "BINARY",
+    "TenBacSi": "CN Nguyễn Thị Tuyết",
+    "DataCapNhat": {
+      "NgayCapNhat": "2024-06-03T15:11:00",
+      "NgayTao": "2024-06-03T15:11:00",
+      "NguoiNhat": "tuyet.nguyent",
+      "NguoiCapNhat": "tuyet.nguyent"
+    },
+    "NgayTao": "0001-01-01T00:00:00",
+    "image": null
+  },
+  {
+    "MaSoTaiLieuDinhKem": 27,
+    "MaTaiLieuDinhKem": "1742177",
+    "TenTaiLieu": "5269_20240603151126_2lj.bmp",
+    "checksum": "md.2024.06.03.3cd522cbdbd3a9d7ab08536bb2c5b02f",
+    "LoaiNoiDung": "image/bmp",
+    "DungLuong": "3 KB",
+    "Loai": "BINARY",
+    "TenBacSi": "CN Nguyễn Thị Tuyết",
+    "DataCapNhat": {
+      "NgayCapNhat": "2024-06-03T15:11:00",
+      "NgayTao": "2024-06-03T15:11:00",
+      "NguoiNhat": "tuyet.nguyent",
+      "NguoiCapNhat": "tuyet.nguyent"
+    },
+    "NgayTao": "0001-01-01T00:00:00",
+    "image": null
+  },
+  {
+    "MaSoTaiLieuDinhKem": 28,
+    "MaTaiLieuDinhKem": "1742176",
+    "TenTaiLieu": "5269_20240603151126_2li.bmp",
+    "checksum": "md.2024.06.03.076abf0764fe87446ac21ab21e66edf6",
+    "LoaiNoiDung": "image/bmp",
+    "DungLuong": "3 KB",
+    "Loai": "BINARY",
+    "TenBacSi": "CN Nguyễn Thị Tuyết",
+    "DataCapNhat": {
+      "NgayCapNhat": "2024-06-03T15:11:00",
+      "NgayTao": "2024-06-03T15:11:00",
+      "NguoiNhat": "tuyet.nguyent",
+      "NguoiCapNhat": "tuyet.nguyent"
+    },
+    "NgayTao": "0001-01-01T00:00:00",
+    "image": null
+  },
+  {
+    "MaSoTaiLieuDinhKem": 29,
+    "MaTaiLieuDinhKem": "1742175",
+    "TenTaiLieu": "5269_20240603151126_2lh.bmp",
+    "checksum": "md.2024.06.03.55b110d1da783f77f14736d9d253f8cd",
+    "LoaiNoiDung": "image/bmp",
+    "DungLuong": "3 KB",
+    "Loai": "BINARY",
+    "TenBacSi": "CN Nguyễn Thị Tuyết",
+    "DataCapNhat": {
+      "NgayCapNhat": "2024-06-03T15:11:00",
+      "NgayTao": "2024-06-03T15:11:00",
+      "NguoiNhat": "tuyet.nguyent",
+      "NguoiCapNhat": "tuyet.nguyent"
+    },
+    "NgayTao": "0001-01-01T00:00:00",
+    "image": null
+  },
+  {
+    "MaSoTaiLieuDinhKem": 30,
+    "MaTaiLieuDinhKem": "1742174",
+    "TenTaiLieu": "5269_20240603151126_2lg.bmp",
+    "checksum": "md.2024.06.03.6143d19aa993a8c634593caa11d66f8e",
+    "LoaiNoiDung": "image/bmp",
+    "DungLuong": "3 KB",
+    "Loai": "BINARY",
+    "TenBacSi": "CN Nguyễn Thị Tuyết",
+    "DataCapNhat": {
+      "NgayCapNhat": "2024-06-03T15:11:00",
+      "NgayTao": "2024-06-03T15:11:00",
+      "NguoiNhat": "tuyet.nguyent",
+      "NguoiCapNhat": "tuyet.nguyent"
+    },
+    "NgayTao": "0001-01-01T00:00:00",
+    "image": null
+  },
+  {
+    "MaSoTaiLieuDinhKem": 31,
+    "MaTaiLieuDinhKem": "1742173",
+    "TenTaiLieu": "5269_20240603151126_2lf.bmp",
+    "checksum": "md.2024.06.03.617bbe897d31d5a005aa0dc641c9cfc9",
+    "LoaiNoiDung": "image/bmp",
+    "DungLuong": "3 KB",
+    "Loai": "BINARY",
+    "TenBacSi": "CN Nguyễn Thị Tuyết",
+    "DataCapNhat": {
+      "NgayCapNhat": "2024-06-03T15:11:00",
+      "NgayTao": "2024-06-03T15:11:00",
+      "NguoiNhat": "tuyet.nguyent",
+      "NguoiCapNhat": "tuyet.nguyent"
+    },
+    "NgayTao": "0001-01-01T00:00:00",
+    "image": null
+  },
+  {
+    "MaSoTaiLieuDinhKem": 32,
+    "MaTaiLieuDinhKem": "1742172",
+    "TenTaiLieu": "5269_20240603151126_2le.bmp",
+    "checksum": "md.2024.06.03.2558cc4a3ad591017814c2472afaccbc",
+    "LoaiNoiDung": "image/bmp",
+    "DungLuong": "3 KB",
+    "Loai": "BINARY",
+    "TenBacSi": "CN Nguyễn Thị Tuyết",
+    "DataCapNhat": {
+      "NgayCapNhat": "2024-06-03T15:11:00",
+      "NgayTao": "2024-06-03T15:11:00",
+      "NguoiNhat": "tuyet.nguyent",
+      "NguoiCapNhat": "tuyet.nguyent"
+    },
+    "NgayTao": "0001-01-01T00:00:00",
+    "image": null
+  },
+  {
+    "MaSoTaiLieuDinhKem": 33,
+    "MaTaiLieuDinhKem": "1742171",
+    "TenTaiLieu": "5269_20240603151126_2ld.bmp",
+    "checksum": "md.2024.06.03.fd6543ac7956225a483595b83619873e",
+    "LoaiNoiDung": "image/bmp",
+    "DungLuong": "3 KB",
+    "Loai": "BINARY",
+    "TenBacSi": "CN Nguyễn Thị Tuyết",
+    "DataCapNhat": {
+      "NgayCapNhat": "2024-06-03T15:11:00",
+      "NgayTao": "2024-06-03T15:11:00",
+      "NguoiNhat": "tuyet.nguyent",
+      "NguoiCapNhat": "tuyet.nguyent"
+    },
+    "NgayTao": "0001-01-01T00:00:00",
+    "image": null
+  },
+  {
+    "MaSoTaiLieuDinhKem": 34,
+    "MaTaiLieuDinhKem": "1742167",
+    "TenTaiLieu": "5268_20240603151051_2lc.bmp",
+    "checksum": "md.2024.06.03.8eb0339b90356f19a11bc2d188f110c3",
+    "LoaiNoiDung": "image/bmp",
+    "DungLuong": "3 KB",
+    "Loai": "BINARY",
+    "TenBacSi": "CN Nguyễn Thị Tuyết",
+    "DataCapNhat": {
+      "NgayCapNhat": "2024-06-03T15:10:00",
+      "NgayTao": "2024-06-03T15:10:00",
+      "NguoiNhat": "tuyet.nguyent",
+      "NguoiCapNhat": "tuyet.nguyent"
+    },
+    "NgayTao": "0001-01-01T00:00:00",
+    "image": null
+  },
+  {
+    "MaSoTaiLieuDinhKem": 35,
+    "MaTaiLieuDinhKem": "1742166",
+    "TenTaiLieu": "5268_20240603151051_2lb.bmp",
+    "checksum": "md.2024.06.03.a3e38b11d4930023525ea3d4417d37f4",
+    "LoaiNoiDung": "image/bmp",
+    "DungLuong": "3 KB",
+    "Loai": "BINARY",
+    "TenBacSi": "CN Nguyễn Thị Tuyết",
+    "DataCapNhat": {
+      "NgayCapNhat": "2024-06-03T15:10:00",
+      "NgayTao": "2024-06-03T15:10:00",
+      "NguoiNhat": "tuyet.nguyent",
+      "NguoiCapNhat": "tuyet.nguyent"
+    },
+    "NgayTao": "0001-01-01T00:00:00",
+    "image": null
+  },
+  {
+    "MaSoTaiLieuDinhKem": 36,
+    "MaTaiLieuDinhKem": "1742165",
+    "TenTaiLieu": "5268_20240603151051_2la.bmp",
+    "checksum": "md.2024.06.03.4b5f5b6b88f83fbe91c12cd73111a93a",
+    "LoaiNoiDung": "image/bmp",
+    "DungLuong": "3 KB",
+    "Loai": "BINARY",
+    "TenBacSi": "CN Nguyễn Thị Tuyết",
+    "DataCapNhat": {
+      "NgayCapNhat": "2024-06-03T15:10:00",
+      "NgayTao": "2024-06-03T15:10:00",
+      "NguoiNhat": "tuyet.nguyent",
+      "NguoiCapNhat": "tuyet.nguyent"
+    },
+    "NgayTao": "0001-01-01T00:00:00",
+    "image": null
+  },
+  {
+    "MaSoTaiLieuDinhKem": 37,
+    "MaTaiLieuDinhKem": "1742164",
+    "TenTaiLieu": "5268_20240603151051_2l9.bmp",
+    "checksum": "md.2024.06.03.41a4024a6ecc06f23223cb2ab5c24925",
+    "LoaiNoiDung": "image/bmp",
+    "DungLuong": "3 KB",
+    "Loai": "BINARY",
+    "TenBacSi": "CN Nguyễn Thị Tuyết",
+    "DataCapNhat": {
+      "NgayCapNhat": "2024-06-03T15:10:00",
+      "NgayTao": "2024-06-03T15:10:00",
+      "NguoiNhat": "tuyet.nguyent",
+      "NguoiCapNhat": "tuyet.nguyent"
+    },
+    "NgayTao": "0001-01-01T00:00:00",
+    "image": null
+  },
+  {
+    "MaSoTaiLieuDinhKem": 38,
+    "MaTaiLieuDinhKem": "1742163",
+    "TenTaiLieu": "5268_20240603151051_2l8.bmp",
+    "checksum": "md.2024.06.03.5576456c6c2c66921307aad21b302e30",
+    "LoaiNoiDung": "image/bmp",
+    "DungLuong": "3 KB",
+    "Loai": "BINARY",
+    "TenBacSi": "CN Nguyễn Thị Tuyết",
+    "DataCapNhat": {
+      "NgayCapNhat": "2024-06-03T15:10:00",
+      "NgayTao": "2024-06-03T15:10:00",
+      "NguoiNhat": "tuyet.nguyent",
+      "NguoiCapNhat": "tuyet.nguyent"
+    },
+    "NgayTao": "0001-01-01T00:00:00",
+    "image": null
+  },
+  {
+    "MaSoTaiLieuDinhKem": 39,
+    "MaTaiLieuDinhKem": "1742162",
+    "TenTaiLieu": "5268_20240603151051_2l7.bmp",
+    "checksum": "md.2024.06.03.777fc45626661a658afbfaa8c90247fa",
+    "LoaiNoiDung": "image/bmp",
+    "DungLuong": "3 KB",
+    "Loai": "BINARY",
+    "TenBacSi": "CN Nguyễn Thị Tuyết",
+    "DataCapNhat": {
+      "NgayCapNhat": "2024-06-03T15:10:00",
+      "NgayTao": "2024-06-03T15:10:00",
+      "NguoiNhat": "tuyet.nguyent",
+      "NguoiCapNhat": "tuyet.nguyent"
+    },
+    "NgayTao": "0001-01-01T00:00:00",
+    "image": null
+  },
+  {
+    "MaSoTaiLieuDinhKem": 40,
+    "MaTaiLieuDinhKem": "1742161",
+    "TenTaiLieu": "5268_20240603151051_2l6.bmp",
+    "checksum": "md.2024.06.03.42a9b92db3e69b7f320b0fb3a5a673d5",
+    "LoaiNoiDung": "image/bmp",
+    "DungLuong": "3 KB",
+    "Loai": "BINARY",
+    "TenBacSi": "CN Nguyễn Thị Tuyết",
+    "DataCapNhat": {
+      "NgayCapNhat": "2024-06-03T15:10:00",
+      "NgayTao": "2024-06-03T15:10:00",
+      "NguoiNhat": "tuyet.nguyent",
+      "NguoiCapNhat": "tuyet.nguyent"
+    },
+    "NgayTao": "0001-01-01T00:00:00",
+    "image": null
+  },
+  {
+    "MaSoTaiLieuDinhKem": 41,
+    "MaTaiLieuDinhKem": "1742160",
+    "TenTaiLieu": "5268_20240603151051_2l5.bmp",
+    "checksum": "md.2024.06.03.32cb17e58c5cadd41f68537b1b513cf2",
+    "LoaiNoiDung": "image/bmp",
+    "DungLuong": "3 KB",
+    "Loai": "BINARY",
+    "TenBacSi": "CN Nguyễn Thị Tuyết",
+    "DataCapNhat": {
+      "NgayCapNhat": "2024-06-03T15:10:00",
+      "NgayTao": "2024-06-03T15:10:00",
+      "NguoiNhat": "tuyet.nguyent",
+      "NguoiCapNhat": "tuyet.nguyent"
+    },
+    "NgayTao": "0001-01-01T00:00:00",
+    "image": null
+  },
+  {
+    "MaSoTaiLieuDinhKem": 42,
+    "MaTaiLieuDinhKem": "1742115",
+    "TenTaiLieu": "1717401599143.jpg",
+    "checksum": "nodicom.2024.06.03.e9f1020967787eb83ed445e4d1dfbfce",
+    "LoaiNoiDung": "image/jpeg",
+    "DungLuong": "26 KB",
+    "Loai": "BINARY",
+    "TenBacSi": "BS Bùi Thị Khánh Phượng",
+    "DataCapNhat": {
+      "NgayCapNhat": "2024-06-03T15:00:00",
+      "NgayTao": "2024-06-03T15:00:00",
+      "NguoiNhat": "phuong.buitk",
+      "NguoiCapNhat": "phuong.buitk"
+    },
+    "NgayTao": "0001-01-01T00:00:00",
+    "image": null
+  },
+  {
+    "MaSoTaiLieuDinhKem": 43,
+    "MaTaiLieuDinhKem": "1742114",
+    "TenTaiLieu": "1717401599120.jpg",
+    "checksum": "nodicom.2024.06.03.04d298cc54e09ba69758770fbaeb1424",
+    "LoaiNoiDung": "image/jpeg",
+    "DungLuong": "27 KB",
+    "Loai": "BINARY",
+    "TenBacSi": "BS Bùi Thị Khánh Phượng",
+    "DataCapNhat": {
+      "NgayCapNhat": "2024-06-03T15:00:00",
+      "NgayTao": "2024-06-03T15:00:00",
+      "NguoiNhat": "phuong.buitk",
+      "NguoiCapNhat": "phuong.buitk"
+    },
+    "NgayTao": "0001-01-01T00:00:00",
+    "image": null
+  },
+  {
+    "MaSoTaiLieuDinhKem": 44,
+    "MaTaiLieuDinhKem": "1742113",
+    "TenTaiLieu": "1717401582306.jpg",
+    "checksum": "nodicom.2024.06.03.c94663e1489d47b388309619ee417946",
+    "LoaiNoiDung": "image/jpeg",
+    "DungLuong": "32 KB",
+    "Loai": "BINARY",
+    "TenBacSi": "BS Bùi Thị Khánh Phượng",
+    "DataCapNhat": {
+      "NgayCapNhat": "2024-06-03T15:00:00",
+      "NgayTao": "2024-06-03T15:00:00",
+      "NguoiNhat": "phuong.buitk",
+      "NguoiCapNhat": "phuong.buitk"
+    },
+    "NgayTao": "0001-01-01T00:00:00",
+    "image": null
+  },
+  {
+    "MaSoTaiLieuDinhKem": 45,
+    "MaTaiLieuDinhKem": "1742083",
+    "TenTaiLieu": "1717401056395.jpg",
+    "checksum": "nodicom.2024.06.03.e21d0560b9556b2f53881e5a65a53305",
+    "LoaiNoiDung": "image/jpeg",
+    "DungLuong": "33 KB",
+    "Loai": "BINARY",
+    "TenBacSi": "BS Bùi Thị Khánh Phượng",
+    "DataCapNhat": {
+      "NgayCapNhat": "2024-06-03T14:52:00",
+      "NgayTao": "2024-06-03T14:52:00",
+      "NguoiNhat": "phuong.buitk",
+      "NguoiCapNhat": "phuong.buitk"
+    },
+    "NgayTao": "0001-01-01T00:00:00",
+    "image": null
+  },
+  {
+    "MaSoTaiLieuDinhKem": 46,
+    "MaTaiLieuDinhKem": "1742082",
+    "TenTaiLieu": "1717401056350.jpg",
+    "checksum": "nodicom.2024.06.03.4e942ede9912561b7c3bb191525e5f5c",
+    "LoaiNoiDung": "image/jpeg",
+    "DungLuong": "33 KB",
+    "Loai": "BINARY",
+    "TenBacSi": "BS Bùi Thị Khánh Phượng",
+    "DataCapNhat": {
+      "NgayCapNhat": "2024-06-03T14:52:00",
+      "NgayTao": "2024-06-03T14:52:00",
+      "NguoiNhat": "phuong.buitk",
+      "NguoiCapNhat": "phuong.buitk"
+    },
+    "NgayTao": "0001-01-01T00:00:00",
+    "image": null
+  },
+  {
+    "MaSoTaiLieuDinhKem": 47,
+    "MaTaiLieuDinhKem": "1742057",
+    "TenTaiLieu": "0230_20240603144254_2l4.bmp",
+    "checksum": "md.2024.06.03.e2f144e2636e2b270d4f35c55fee552b",
+    "LoaiNoiDung": "image/bmp",
+    "DungLuong": "5 KB",
+    "Loai": "BINARY",
+    "TenBacSi": "CN Nguyễn Đoàn Phương Loan",
+    "DataCapNhat": {
+      "NgayCapNhat": "2024-06-03T14:42:00",
+      "NgayTao": "2024-06-03T14:42:00",
+      "NguoiNhat": "loan.nguyendp",
+      "NguoiCapNhat": "loan.nguyendp"
+    },
+    "NgayTao": "0001-01-01T00:00:00",
+    "image": null
+  },
+  {
+    "MaSoTaiLieuDinhKem": 48,
+    "MaTaiLieuDinhKem": "1742056",
+    "TenTaiLieu": "0230_20240603144254_2l3.bmp",
+    "checksum": "md.2024.06.03.a8b416a7b754cb0a4e398d9a39ce76f8",
+    "LoaiNoiDung": "image/bmp",
+    "DungLuong": "5 KB",
+    "Loai": "BINARY",
+    "TenBacSi": "CN Nguyễn Đoàn Phương Loan",
+    "DataCapNhat": {
+      "NgayCapNhat": "2024-06-03T14:42:00",
+      "NgayTao": "2024-06-03T14:42:00",
+      "NguoiNhat": "loan.nguyendp",
+      "NguoiCapNhat": "loan.nguyendp"
+    },
+    "NgayTao": "0001-01-01T00:00:00",
+    "image": null
+  },
+  {
+    "MaSoTaiLieuDinhKem": 49,
+    "MaTaiLieuDinhKem": "1742055",
+    "TenTaiLieu": "0230_20240603144254_2l2.bmp",
+    "checksum": "md.2024.06.03.391da01ca159a0f76b13bfed0f259c9c",
+    "LoaiNoiDung": "image/bmp",
+    "DungLuong": "5 KB",
+    "Loai": "BINARY",
+    "TenBacSi": "CN Nguyễn Đoàn Phương Loan",
+    "DataCapNhat": {
+      "NgayCapNhat": "2024-06-03T14:42:00",
+      "NgayTao": "2024-06-03T14:42:00",
+      "NguoiNhat": "loan.nguyendp",
+      "NguoiCapNhat": "loan.nguyendp"
+    },
+    "NgayTao": "0001-01-01T00:00:00",
+    "image": null
+  },
+  {
+    "MaSoTaiLieuDinhKem": 50,
+    "MaTaiLieuDinhKem": "1742054",
+    "TenTaiLieu": "0230_20240603144254_2l1.bmp",
+    "checksum": "md.2024.06.03.ab6437f5f5d9cc9d6173df846f695cc3",
+    "LoaiNoiDung": "image/bmp",
+    "DungLuong": "5 KB",
+    "Loai": "BINARY",
+    "TenBacSi": "CN Nguyễn Đoàn Phương Loan",
+    "DataCapNhat": {
+      "NgayCapNhat": "2024-06-03T14:42:00",
+      "NgayTao": "2024-06-03T14:42:00",
+      "NguoiNhat": "loan.nguyendp",
+      "NguoiCapNhat": "loan.nguyendp"
+    },
+    "NgayTao": "0001-01-01T00:00:00",
+    "image": null
+  },
+  {
+    "MaSoTaiLieuDinhKem": 51,
+    "MaTaiLieuDinhKem": "1742053",
+    "TenTaiLieu": "0230_20240603144254_2l0.bmp",
+    "checksum": "md.2024.06.03.302699c809bce1e16afe73e8eab9be94",
+    "LoaiNoiDung": "image/bmp",
+    "DungLuong": "5 KB",
+    "Loai": "BINARY",
+    "TenBacSi": "CN Nguyễn Đoàn Phương Loan",
+    "DataCapNhat": {
+      "NgayCapNhat": "2024-06-03T14:42:00",
+      "NgayTao": "2024-06-03T14:42:00",
+      "NguoiNhat": "loan.nguyendp",
+      "NguoiCapNhat": "loan.nguyendp"
+    },
+    "NgayTao": "0001-01-01T00:00:00",
+    "image": null
+  },
+  {
+    "MaSoTaiLieuDinhKem": 52,
+    "MaTaiLieuDinhKem": "1742052",
+    "TenTaiLieu": "0230_20240603144254_2kz.bmp",
+    "checksum": "md.2024.06.03.93be1624e7cd686206740130023d706a",
+    "LoaiNoiDung": "image/bmp",
+    "DungLuong": "5 KB",
+    "Loai": "BINARY",
+    "TenBacSi": "CN Nguyễn Đoàn Phương Loan",
+    "DataCapNhat": {
+      "NgayCapNhat": "2024-06-03T14:42:00",
+      "NgayTao": "2024-06-03T14:42:00",
+      "NguoiNhat": "loan.nguyendp",
+      "NguoiCapNhat": "loan.nguyendp"
+    },
+    "NgayTao": "0001-01-01T00:00:00",
+    "image": null
+  },
+  {
+    "MaSoTaiLieuDinhKem": 53,
+    "MaTaiLieuDinhKem": "1742051",
+    "TenTaiLieu": "0230_20240603144254_2ky.bmp",
+    "checksum": "md.2024.06.03.261b4ec902f1fc44f7b750a8eee30d21",
+    "LoaiNoiDung": "image/bmp",
+    "DungLuong": "5 KB",
+    "Loai": "BINARY",
+    "TenBacSi": "CN Nguyễn Đoàn Phương Loan",
+    "DataCapNhat": {
+      "NgayCapNhat": "2024-06-03T14:42:00",
+      "NgayTao": "2024-06-03T14:42:00",
+      "NguoiNhat": "loan.nguyendp",
+      "NguoiCapNhat": "loan.nguyendp"
+    },
+    "NgayTao": "0001-01-01T00:00:00",
+    "image": null
+  },
+  {
+    "MaSoTaiLieuDinhKem": 54,
+    "MaTaiLieuDinhKem": "1742050",
+    "TenTaiLieu": "0230_20240603144254_2kx.bmp",
+    "checksum": "md.2024.06.03.5aec4fee26f52465283435a87f779510",
+    "LoaiNoiDung": "image/bmp",
+    "DungLuong": "5 KB",
+    "Loai": "BINARY",
+    "TenBacSi": "CN Nguyễn Đoàn Phương Loan",
+    "DataCapNhat": {
+      "NgayCapNhat": "2024-06-03T14:42:00",
+      "NgayTao": "2024-06-03T14:42:00",
+      "NguoiNhat": "loan.nguyendp",
+      "NguoiCapNhat": "loan.nguyendp"
+    },
+    "NgayTao": "0001-01-01T00:00:00",
+    "image": null
+  },
+  {
+    "MaSoTaiLieuDinhKem": 55,
+    "MaTaiLieuDinhKem": "1742045",
+    "TenTaiLieu": "0229_20240603144213_2kw.bmp",
+    "checksum": "md.2024.06.03.53a9acddd9e9caa67d9db4a486692333",
+    "LoaiNoiDung": "image/bmp",
+    "DungLuong": "5 KB",
+    "Loai": "BINARY",
+    "TenBacSi": "CN Nguyễn Đoàn Phương Loan",
+    "DataCapNhat": {
+      "NgayCapNhat": "2024-06-03T14:42:00",
+      "NgayTao": "2024-06-03T14:42:00",
+      "NguoiNhat": "loan.nguyendp",
+      "NguoiCapNhat": "loan.nguyendp"
+    },
+    "NgayTao": "0001-01-01T00:00:00",
+    "image": null
+  },
+  {
+    "MaSoTaiLieuDinhKem": 56,
+    "MaTaiLieuDinhKem": "1742044",
+    "TenTaiLieu": "0229_20240603144213_2kv.bmp",
+    "checksum": "md.2024.06.03.42bbca768345f3bea33cd007d5afa8fd",
+    "LoaiNoiDung": "image/bmp",
+    "DungLuong": "5 KB",
+    "Loai": "BINARY",
+    "TenBacSi": "CN Nguyễn Đoàn Phương Loan",
+    "DataCapNhat": {
+      "NgayCapNhat": "2024-06-03T14:42:00",
+      "NgayTao": "2024-06-03T14:42:00",
+      "NguoiNhat": "loan.nguyendp",
+      "NguoiCapNhat": "loan.nguyendp"
+    },
+    "NgayTao": "0001-01-01T00:00:00",
+    "image": null
+  },
+  {
+    "MaSoTaiLieuDinhKem": 57,
+    "MaTaiLieuDinhKem": "1742043",
+    "TenTaiLieu": "0229_20240603144213_2ku.bmp",
+    "checksum": "md.2024.06.03.2570d98669adceb759dfe0f7d3c4ad53",
+    "LoaiNoiDung": "image/bmp",
+    "DungLuong": "5 KB",
+    "Loai": "BINARY",
+    "TenBacSi": "CN Nguyễn Đoàn Phương Loan",
+    "DataCapNhat": {
+      "NgayCapNhat": "2024-06-03T14:42:00",
+      "NgayTao": "2024-06-03T14:42:00",
+      "NguoiNhat": "loan.nguyendp",
+      "NguoiCapNhat": "loan.nguyendp"
+    },
+    "NgayTao": "0001-01-01T00:00:00",
+    "image": null
+  },
+  {
+    "MaSoTaiLieuDinhKem": 58,
+    "MaTaiLieuDinhKem": "1742042",
+    "TenTaiLieu": "0229_20240603144213_2kt.bmp",
+    "checksum": "md.2024.06.03.539e9c66a519be73ca5ce8b4b64f3de8",
+    "LoaiNoiDung": "image/bmp",
+    "DungLuong": "5 KB",
+    "Loai": "BINARY",
+    "TenBacSi": "CN Nguyễn Đoàn Phương Loan",
+    "DataCapNhat": {
+      "NgayCapNhat": "2024-06-03T14:42:00",
+      "NgayTao": "2024-06-03T14:42:00",
+      "NguoiNhat": "loan.nguyendp",
+      "NguoiCapNhat": "loan.nguyendp"
+    },
+    "NgayTao": "0001-01-01T00:00:00",
+    "image": null
+  },
+  {
+    "MaSoTaiLieuDinhKem": 59,
+    "MaTaiLieuDinhKem": "1742041",
+    "TenTaiLieu": "0229_20240603144213_2ks.bmp",
+    "checksum": "md.2024.06.03.3703121834bd9891988e302e6b6430b2",
+    "LoaiNoiDung": "image/bmp",
+    "DungLuong": "5 KB",
+    "Loai": "BINARY",
+    "TenBacSi": "CN Nguyễn Đoàn Phương Loan",
+    "DataCapNhat": {
+      "NgayCapNhat": "2024-06-03T14:42:00",
+      "NgayTao": "2024-06-03T14:42:00",
+      "NguoiNhat": "loan.nguyendp",
+      "NguoiCapNhat": "loan.nguyendp"
+    },
+    "NgayTao": "0001-01-01T00:00:00",
+    "image": null
+  },
+  {
+    "MaSoTaiLieuDinhKem": 60,
+    "MaTaiLieuDinhKem": "1742040",
+    "TenTaiLieu": "0229_20240603144213_2kr.bmp",
+    "checksum": "md.2024.06.03.5a4cea45e2651bd5b71528c32936143b",
+    "LoaiNoiDung": "image/bmp",
+    "DungLuong": "5 KB",
+    "Loai": "BINARY",
+    "TenBacSi": "CN Nguyễn Đoàn Phương Loan",
+    "DataCapNhat": {
+      "NgayCapNhat": "2024-06-03T14:42:00",
+      "NgayTao": "2024-06-03T14:42:00",
+      "NguoiNhat": "loan.nguyendp",
+      "NguoiCapNhat": "loan.nguyendp"
+    },
+    "NgayTao": "0001-01-01T00:00:00",
+    "image": null
+  },
+  {
+    "MaSoTaiLieuDinhKem": 61,
+    "MaTaiLieuDinhKem": "1742039",
+    "TenTaiLieu": "0229_20240603144213_2kq.bmp",
+    "checksum": "md.2024.06.03.a66571955d81887372315642b0437dd1",
+    "LoaiNoiDung": "image/bmp",
+    "DungLuong": "5 KB",
+    "Loai": "BINARY",
+    "TenBacSi": "CN Nguyễn Đoàn Phương Loan",
+    "DataCapNhat": {
+      "NgayCapNhat": "2024-06-03T14:42:00",
+      "NgayTao": "2024-06-03T14:42:00",
+      "NguoiNhat": "loan.nguyendp",
+      "NguoiCapNhat": "loan.nguyendp"
+    },
+    "NgayTao": "0001-01-01T00:00:00",
+    "image": null
+  },
+  {
+    "MaSoTaiLieuDinhKem": 62,
+    "MaTaiLieuDinhKem": "1742038",
+    "TenTaiLieu": "0229_20240603144213_2kp.bmp",
+    "checksum": "md.2024.06.03.e4a81421598a711cc95836de8d9db706",
+    "LoaiNoiDung": "image/bmp",
+    "DungLuong": "5 KB",
+    "Loai": "BINARY",
+    "TenBacSi": "CN Nguyễn Đoàn Phương Loan",
+    "DataCapNhat": {
+      "NgayCapNhat": "2024-06-03T14:42:00",
+      "NgayTao": "2024-06-03T14:42:00",
+      "NguoiNhat": "loan.nguyendp",
+      "NguoiCapNhat": "loan.nguyendp"
+    },
+    "NgayTao": "0001-01-01T00:00:00",
+    "image": null
+  },
+  {
+    "MaSoTaiLieuDinhKem": 63,
+    "MaTaiLieuDinhKem": "1741974",
+    "TenTaiLieu": "1717399649018.jpg",
+    "checksum": "nodicom.2024.06.03.04719f4891b3f360449cd60721d262c8",
+    "LoaiNoiDung": "image/jpeg",
+    "DungLuong": "39 KB",
+    "Loai": "BINARY",
+    "TenBacSi": "BS Bùi Thị Khánh Phượng",
+    "DataCapNhat": {
+      "NgayCapNhat": "2024-06-03T14:28:00",
+      "NgayTao": "2024-06-03T14:28:00",
+      "NguoiNhat": "phuong.buitk",
+      "NguoiCapNhat": "phuong.buitk"
+    },
+    "NgayTao": "0001-01-01T00:00:00",
+    "image": null
+  },
+  {
+    "MaSoTaiLieuDinhKem": 64,
+    "MaTaiLieuDinhKem": "1741971",
+    "TenTaiLieu": "0228_20240603142751_2ko.bmp",
+    "checksum": "md.2024.06.03.6b1e41c9f1ac05cf27fe04f9b607adc4",
+    "LoaiNoiDung": "image/bmp",
+    "DungLuong": "5 KB",
+    "Loai": "BINARY",
+    "TenBacSi": "CN Nguyễn Đoàn Phương Loan",
+    "DataCapNhat": {
+      "NgayCapNhat": "2024-06-03T14:27:00",
+      "NgayTao": "2024-06-03T14:27:00",
+      "NguoiNhat": "loan.nguyendp",
+      "NguoiCapNhat": "loan.nguyendp"
+    },
+    "NgayTao": "0001-01-01T00:00:00",
+    "image": null
+  },
+  {
+    "MaSoTaiLieuDinhKem": 65,
+    "MaTaiLieuDinhKem": "1741970",
+    "TenTaiLieu": "0228_20240603142751_2kn.bmp",
+    "checksum": "md.2024.06.03.a6d230ce9b50a43ba2d9a60605fe175a",
+    "LoaiNoiDung": "image/bmp",
+    "DungLuong": "5 KB",
+    "Loai": "BINARY",
+    "TenBacSi": "CN Nguyễn Đoàn Phương Loan",
+    "DataCapNhat": {
+      "NgayCapNhat": "2024-06-03T14:27:00",
+      "NgayTao": "2024-06-03T14:27:00",
+      "NguoiNhat": "loan.nguyendp",
+      "NguoiCapNhat": "loan.nguyendp"
+    },
+    "NgayTao": "0001-01-01T00:00:00",
+    "image": null
+  },
+  {
+    "MaSoTaiLieuDinhKem": 66,
+    "MaTaiLieuDinhKem": "1741969",
+    "TenTaiLieu": "0228_20240603142751_2km.bmp",
+    "checksum": "md.2024.06.03.e406c95f99c00ceac025e31d8c88f226",
+    "LoaiNoiDung": "image/bmp",
+    "DungLuong": "5 KB",
+    "Loai": "BINARY",
+    "TenBacSi": "CN Nguyễn Đoàn Phương Loan",
+    "DataCapNhat": {
+      "NgayCapNhat": "2024-06-03T14:27:00",
+      "NgayTao": "2024-06-03T14:27:00",
+      "NguoiNhat": "loan.nguyendp",
+      "NguoiCapNhat": "loan.nguyendp"
+    },
+    "NgayTao": "0001-01-01T00:00:00",
+    "image": null
+  },
+  {
+    "MaSoTaiLieuDinhKem": 67,
+    "MaTaiLieuDinhKem": "1741968",
+    "TenTaiLieu": "0228_20240603142751_2kl.bmp",
+    "checksum": "md.2024.06.03.b8a03d9659c20c0c3324fe1cf734fb67",
+    "LoaiNoiDung": "image/bmp",
+    "DungLuong": "5 KB",
+    "Loai": "BINARY",
+    "TenBacSi": "CN Nguyễn Đoàn Phương Loan",
+    "DataCapNhat": {
+      "NgayCapNhat": "2024-06-03T14:27:00",
+      "NgayTao": "2024-06-03T14:27:00",
+      "NguoiNhat": "loan.nguyendp",
+      "NguoiCapNhat": "loan.nguyendp"
+    },
+    "NgayTao": "0001-01-01T00:00:00",
+    "image": null
+  },
+  {
+    "MaSoTaiLieuDinhKem": 68,
+    "MaTaiLieuDinhKem": "1741967",
+    "TenTaiLieu": "0228_20240603142751_2kk.bmp",
+    "checksum": "md.2024.06.03.98c43e12789c79f08cd0eb98c1f541f3",
+    "LoaiNoiDung": "image/bmp",
+    "DungLuong": "5 KB",
+    "Loai": "BINARY",
+    "TenBacSi": "CN Nguyễn Đoàn Phương Loan",
+    "DataCapNhat": {
+      "NgayCapNhat": "2024-06-03T14:27:00",
+      "NgayTao": "2024-06-03T14:27:00",
+      "NguoiNhat": "loan.nguyendp",
+      "NguoiCapNhat": "loan.nguyendp"
+    },
+    "NgayTao": "0001-01-01T00:00:00",
+    "image": null
+  },
+  {
+    "MaSoTaiLieuDinhKem": 69,
+    "MaTaiLieuDinhKem": "1741966",
+    "TenTaiLieu": "0228_20240603142751_2kj.bmp",
+    "checksum": "md.2024.06.03.91c92f7845ec04ecff114419ef13e658",
+    "LoaiNoiDung": "image/bmp",
+    "DungLuong": "5 KB",
+    "Loai": "BINARY",
+    "TenBacSi": "CN Nguyễn Đoàn Phương Loan",
+    "DataCapNhat": {
+      "NgayCapNhat": "2024-06-03T14:27:00",
+      "NgayTao": "2024-06-03T14:27:00",
+      "NguoiNhat": "loan.nguyendp",
+      "NguoiCapNhat": "loan.nguyendp"
+    },
+    "NgayTao": "0001-01-01T00:00:00",
+    "image": null
+  },
+  {
+    "MaSoTaiLieuDinhKem": 70,
+    "MaTaiLieuDinhKem": "1741965",
+    "TenTaiLieu": "0228_20240603142751_2ki.bmp",
+    "checksum": "md.2024.06.03.39573f075d74525eed523f410798e43f",
+    "LoaiNoiDung": "image/bmp",
+    "DungLuong": "5 KB",
+    "Loai": "BINARY",
+    "TenBacSi": "CN Nguyễn Đoàn Phương Loan",
+    "DataCapNhat": {
+      "NgayCapNhat": "2024-06-03T14:27:00",
+      "NgayTao": "2024-06-03T14:27:00",
+      "NguoiNhat": "loan.nguyendp",
+      "NguoiCapNhat": "loan.nguyendp"
+    },
+    "NgayTao": "0001-01-01T00:00:00",
+    "image": null
+  },
+  {
+    "MaSoTaiLieuDinhKem": 71,
+    "MaTaiLieuDinhKem": "1741964",
+    "TenTaiLieu": "0228_20240603142751_2kh.bmp",
+    "checksum": "md.2024.06.03.5bac297b3ff16c26e0f8e274b02f32cc",
+    "LoaiNoiDung": "image/bmp",
+    "DungLuong": "5 KB",
+    "Loai": "BINARY",
+    "TenBacSi": "CN Nguyễn Đoàn Phương Loan",
+    "DataCapNhat": {
+      "NgayCapNhat": "2024-06-03T14:27:00",
+      "NgayTao": "2024-06-03T14:27:00",
+      "NguoiNhat": "loan.nguyendp",
+      "NguoiCapNhat": "loan.nguyendp"
+    },
+    "NgayTao": "0001-01-01T00:00:00",
+    "image": null
+  },
+  {
+    "MaSoTaiLieuDinhKem": 72,
+    "MaTaiLieuDinhKem": "1741959",
+    "TenTaiLieu": "5267_20240603142638_2kg.bmp",
+    "checksum": "md.2024.06.03.2de78ee7891ef0adf2d1f1d524fa422f",
+    "LoaiNoiDung": "image/bmp",
+    "DungLuong": "3 KB",
+    "Loai": "BINARY",
+    "TenBacSi": "CN Nguyễn Thị Tuyết",
+    "DataCapNhat": {
+      "NgayCapNhat": "2024-06-03T14:26:00",
+      "NgayTao": "2024-06-03T14:26:00",
+      "NguoiNhat": "tuyet.nguyent",
+      "NguoiCapNhat": "tuyet.nguyent"
+    },
+    "NgayTao": "0001-01-01T00:00:00",
+    "image": null
+  },
+  {
+    "MaSoTaiLieuDinhKem": 73,
+    "MaTaiLieuDinhKem": "1741958",
+    "TenTaiLieu": "5267_20240603142638_2kf.bmp",
+    "checksum": "md.2024.06.03.f63b42c8c27371d15a4b8c600b29004d",
+    "LoaiNoiDung": "image/bmp",
+    "DungLuong": "3 KB",
+    "Loai": "BINARY",
+    "TenBacSi": "CN Nguyễn Thị Tuyết",
+    "DataCapNhat": {
+      "NgayCapNhat": "2024-06-03T14:26:00",
+      "NgayTao": "2024-06-03T14:26:00",
+      "NguoiNhat": "tuyet.nguyent",
+      "NguoiCapNhat": "tuyet.nguyent"
+    },
+    "NgayTao": "0001-01-01T00:00:00",
+    "image": null
+  },
+  {
+    "MaSoTaiLieuDinhKem": 74,
+    "MaTaiLieuDinhKem": "1741957",
+    "TenTaiLieu": "5267_20240603142638_2ke.bmp",
+    "checksum": "md.2024.06.03.6ad04eec2190aa7e0cebae6b37fbb553",
+    "LoaiNoiDung": "image/bmp",
+    "DungLuong": "3 KB",
+    "Loai": "BINARY",
+    "TenBacSi": "CN Nguyễn Thị Tuyết",
+    "DataCapNhat": {
+      "NgayCapNhat": "2024-06-03T14:26:00",
+      "NgayTao": "2024-06-03T14:26:00",
+      "NguoiNhat": "tuyet.nguyent",
+      "NguoiCapNhat": "tuyet.nguyent"
+    },
+    "NgayTao": "0001-01-01T00:00:00",
+    "image": null
+  },
+  {
+    "MaSoTaiLieuDinhKem": 75,
+    "MaTaiLieuDinhKem": "1741956",
+    "TenTaiLieu": "5267_20240603142638_2kd.bmp",
+    "checksum": "md.2024.06.03.509b818395a36c92c2e26cb357bd4630",
+    "LoaiNoiDung": "image/bmp",
+    "DungLuong": "3 KB",
+    "Loai": "BINARY",
+    "TenBacSi": "CN Nguyễn Thị Tuyết",
+    "DataCapNhat": {
+      "NgayCapNhat": "2024-06-03T14:26:00",
+      "NgayTao": "2024-06-03T14:26:00",
+      "NguoiNhat": "tuyet.nguyent",
+      "NguoiCapNhat": "tuyet.nguyent"
+    },
+    "NgayTao": "0001-01-01T00:00:00",
+    "image": null
+  },
+  {
+    "MaSoTaiLieuDinhKem": 76,
+    "MaTaiLieuDinhKem": "1741955",
+    "TenTaiLieu": "5267_20240603142638_2kc.bmp",
+    "checksum": "md.2024.06.03.96463ccc03c7a2511181d9948c7496ca",
+    "LoaiNoiDung": "image/bmp",
+    "DungLuong": "3 KB",
+    "Loai": "BINARY",
+    "TenBacSi": "CN Nguyễn Thị Tuyết",
+    "DataCapNhat": {
+      "NgayCapNhat": "2024-06-03T14:26:00",
+      "NgayTao": "2024-06-03T14:26:00",
+      "NguoiNhat": "tuyet.nguyent",
+      "NguoiCapNhat": "tuyet.nguyent"
+    },
+    "NgayTao": "0001-01-01T00:00:00",
+    "image": null
+  },
+  {
+    "MaSoTaiLieuDinhKem": 77,
+    "MaTaiLieuDinhKem": "1741954",
+    "TenTaiLieu": "5267_20240603142638_2kb.bmp",
+    "checksum": "md.2024.06.03.fd6f143c9624d043736c4d2f48bef302",
+    "LoaiNoiDung": "image/bmp",
+    "DungLuong": "3 KB",
+    "Loai": "BINARY",
+    "TenBacSi": "CN Nguyễn Thị Tuyết",
+    "DataCapNhat": {
+      "NgayCapNhat": "2024-06-03T14:26:00",
+      "NgayTao": "2024-06-03T14:26:00",
+      "NguoiNhat": "tuyet.nguyent",
+      "NguoiCapNhat": "tuyet.nguyent"
+    },
+    "NgayTao": "0001-01-01T00:00:00",
+    "image": null
+  },
+  {
+    "MaSoTaiLieuDinhKem": 78,
+    "MaTaiLieuDinhKem": "1741953",
+    "TenTaiLieu": "5267_20240603142638_2ka.bmp",
+    "checksum": "md.2024.06.03.8ee62666fad9f09ed058413c5f219c0b",
+    "LoaiNoiDung": "image/bmp",
+    "DungLuong": "3 KB",
+    "Loai": "BINARY",
+    "TenBacSi": "CN Nguyễn Thị Tuyết",
+    "DataCapNhat": {
+      "NgayCapNhat": "2024-06-03T14:26:00",
+      "NgayTao": "2024-06-03T14:26:00",
+      "NguoiNhat": "tuyet.nguyent",
+      "NguoiCapNhat": "tuyet.nguyent"
+    },
+    "NgayTao": "0001-01-01T00:00:00",
+    "image": null
+  },
+  {
+    "MaSoTaiLieuDinhKem": 79,
+    "MaTaiLieuDinhKem": "1741952",
+    "TenTaiLieu": "5267_20240603142638_2k9.bmp",
+    "checksum": "md.2024.06.03.5ff10b8c903306d60682b569433b1f30",
+    "LoaiNoiDung": "image/bmp",
+    "DungLuong": "3 KB",
+    "Loai": "BINARY",
+    "TenBacSi": "CN Nguyễn Thị Tuyết",
+    "DataCapNhat": {
+      "NgayCapNhat": "2024-06-03T14:26:00",
+      "NgayTao": "2024-06-03T14:26:00",
+      "NguoiNhat": "tuyet.nguyent",
+      "NguoiCapNhat": "tuyet.nguyent"
+    },
+    "NgayTao": "0001-01-01T00:00:00",
+    "image": null
+  },
+  {
+    "MaSoTaiLieuDinhKem": 80,
+    "MaTaiLieuDinhKem": "1741951",
+    "TenTaiLieu": "5267_20240603142637_2k8.bmp",
+    "checksum": "md.2024.06.03.8b3a58497b5d73f317f88e8160060d10",
+    "LoaiNoiDung": "image/bmp",
+    "DungLuong": "3 KB",
+    "Loai": "BINARY",
+    "TenBacSi": "CN Nguyễn Thị Tuyết",
+    "DataCapNhat": {
+      "NgayCapNhat": "2024-06-03T14:26:00",
+      "NgayTao": "2024-06-03T14:26:00",
+      "NguoiNhat": "tuyet.nguyent",
+      "NguoiCapNhat": "tuyet.nguyent"
+    },
+    "NgayTao": "0001-01-01T00:00:00",
+    "image": null
+  }
+]

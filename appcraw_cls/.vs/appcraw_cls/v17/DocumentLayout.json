@@ -1,0 +1,99 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ndung\\source\\repos\\appcraw_cls\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A94DED0-705E-42D7-A4A0-42666115B15F}|appcraw_cls\\appcraw_cls.csproj|c:\\users\\ndung\\source\\repos\\appcraw_cls\\appcraw_cls\\xtraform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A94DED0-705E-42D7-A4A0-42666115B15F}|appcraw_cls\\appcraw_cls.csproj|solutionrelative:appcraw_cls\\xtraform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A94DED0-705E-42D7-A4A0-42666115B15F}|appcraw_cls\\appcraw_cls.csproj|c:\\users\\ndung\\source\\repos\\appcraw_cls\\appcraw_cls\\xtraform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A94DED0-705E-42D7-A4A0-42666115B15F}|appcraw_cls\\appcraw_cls.csproj|solutionrelative:appcraw_cls\\xtraform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A94DED0-705E-42D7-A4A0-42666115B15F}|appcraw_cls\\appcraw_cls.csproj|c:\\users\\ndung\\source\\repos\\appcraw_cls\\appcraw_cls\\model\\tailieudinhkem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A94DED0-705E-42D7-A4A0-42666115B15F}|appcraw_cls\\appcraw_cls.csproj|solutionrelative:appcraw_cls\\model\\tailieudinhkem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A94DED0-705E-42D7-A4A0-42666115B15F}|appcraw_cls\\appcraw_cls.csproj|c:\\users\\ndung\\source\\repos\\appcraw_cls\\appcraw_cls\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A94DED0-705E-42D7-A4A0-42666115B15F}|appcraw_cls\\appcraw_cls.csproj|solutionrelative:appcraw_cls\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaiLieuDinhKem.cs",
+              "DocumentMoniker": "C:\\Users\\ndung\\source\\repos\\appcraw_cls\\appcraw_cls\\Model\\TaiLieuDinhKem.cs",
+              "RelativeDocumentMoniker": "appcraw_cls\\Model\\TaiLieuDinhKem.cs",
+              "ToolTip": "C:\\Users\\ndung\\source\\repos\\appcraw_cls\\appcraw_cls\\Model\\TaiLieuDinhKem.cs",
+              "RelativeToolTip": "appcraw_cls\\Model\\TaiLieuDinhKem.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA7wCIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T14:04:21.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "XtraForm1.cs",
+              "DocumentMoniker": "C:\\Users\\ndung\\source\\repos\\appcraw_cls\\appcraw_cls\\XtraForm1.cs",
+              "RelativeDocumentMoniker": "appcraw_cls\\XtraForm1.cs",
+              "ToolTip": "C:\\Users\\ndung\\source\\repos\\appcraw_cls\\appcraw_cls\\XtraForm1.cs",
+              "RelativeToolTip": "appcraw_cls\\XtraForm1.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAWwFAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T13:31:21.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "XtraForm1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ndung\\source\\repos\\appcraw_cls\\appcraw_cls\\XtraForm1.cs",
+              "RelativeDocumentMoniker": "appcraw_cls\\XtraForm1.cs",
+              "ToolTip": "C:\\Users\\ndung\\source\\repos\\appcraw_cls\\appcraw_cls\\XtraForm1.cs [Design]",
+              "RelativeToolTip": "appcraw_cls\\XtraForm1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T13:28:45.249Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ndung\\source\\repos\\appcraw_cls\\appcraw_cls\\Program.cs",
+              "RelativeDocumentMoniker": "appcraw_cls\\Program.cs",
+              "ToolTip": "C:\\Users\\ndung\\source\\repos\\appcraw_cls\\appcraw_cls\\Program.cs",
+              "RelativeToolTip": "appcraw_cls\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T13:28:06.08Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
